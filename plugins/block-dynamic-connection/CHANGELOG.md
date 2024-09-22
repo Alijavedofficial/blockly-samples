@@ -3,6 +3,69 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.9](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.8...@blockly/block-dynamic-connection@0.7.9) (2024-08-29)
+
+
+### Bug Fixes
+
+* predeploy plugins ([#2449](https://github.com/google/blockly-samples/issues/2449)) ([6b36d8b](https://github.com/google/blockly-samples/commit/6b36d8b344a969f79d89bbc7dcee29ae554759f9))
+
+
+
+
+
+## [0.7.8](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.7...@blockly/block-dynamic-connection@0.7.8) (2024-08-22)
+
+
+### Bug Fixes
+
+* lerna v8 breaking our whole shebangle ([#2446](https://github.com/google/blockly-samples/issues/2446)) ([b8b4c21](https://github.com/google/blockly-samples/commit/b8b4c21d4eaf81f527336ae46f6679ff99ac23c3))
+
+
+
+
+
+## [0.7.7](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.6...@blockly/block-dynamic-connection@0.7.7) (2024-08-08)
+
+**Note:** Version bump only for package @blockly/block-dynamic-connection
+
+
+
+
+
+## [0.7.6](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.5...@blockly/block-dynamic-connection@0.7.6) (2024-08-01)
+
+**Note:** Version bump only for package @blockly/block-dynamic-connection
+
+
+
+
+
+## [0.7.5](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.4...@blockly/block-dynamic-connection@0.7.5) (2024-07-25)
+
+**Note:** Version bump only for package @blockly/block-dynamic-connection
+
+
+
+
+
+## [0.7.4](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.3...@blockly/block-dynamic-connection@0.7.4) (2024-07-11)
+
+
+### Reverts
+
+* Revert "chore(deps): Bump the npm_and_yarn group across 54 directories with 19 updates (#2403)" (#2410) ([bad8ffb](https://github.com/google/blockly-samples/commit/bad8ffbf85caa4e5b68d2f010cd0deaa9e3dd98f)), closes [#2403](https://github.com/google/blockly-samples/issues/2403) [#2410](https://github.com/google/blockly-samples/issues/2410)
+
+
+
+## [0.7.3](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.2...@blockly/block-dynamic-connection@0.7.3) (2024-07-04)
+
+**Note:** Version bump only for package @blockly/block-dynamic-connection
+
+
+
+
+
 ## [0.7.2](https://github.com/google/blockly-samples/compare/@blockly/block-dynamic-connection@0.7.1...@blockly/block-dynamic-connection@0.7.2) (2024-06-06)
 
 **Note:** Version bump only for package @blockly/block-dynamic-connection
